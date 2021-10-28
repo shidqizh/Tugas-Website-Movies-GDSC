@@ -1,5 +1,5 @@
 # Tugas-Website-Movies-GDSC
-Top 10 Movies of All Time by Shidqi Izhari (437)
+Top 10 Movies of All Time by Shidqi Izhari (436)
 
 Link website: https://shidqizh.github.io/
 
