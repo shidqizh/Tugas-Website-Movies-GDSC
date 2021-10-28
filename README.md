@@ -1,6 +1,5 @@
 # Tugas-Website-Movies-GDSC
 Top 10 Movies of All Time by Shidqi Izhari (437)
-(based on rottentomatoes.com)
 
 Link website: https://shidqizh.github.io/
 
