@@ -5,7 +5,7 @@ Top 10 Movies of All Time by Shidqi Izhari (437)
 Link website: https://shidqizh.github.io/
 
 Website ini merupakan hasil tugas front-end pertama dari GDSC ITB.
-Pada website yang saya buat, terdapat 10 daftar judul-judul film terbaik sepanjang masa yang dikutip dari website rottentomatoes.com.
+Pada website yang saya buat, terdapat daftar judul-judul film terbaik sepanjang masa yang dikutip dari website rottentomatoes.com.
 Fitur utama pada website ini adalah search bar yang dapat mem-filter judul-judul yang tersedia dan page deskripsi film yang akan muncul apabila judulnya diklik.
 Deskripsi dari film ini berisikan penjelasan singkat, rating, dan juga poster film tersebut.
 
